@@ -1,0 +1,31 @@
+nombre actividad,nivel, tag,tag,tag,tag,tag,tag
+Introducción a HTML, basico,HTML, Conceptos básicos, introducción
+Creación de estructuras básicas de HTML, basico,HTML, estructuras, básico
+Introducción a CSS,básico,CSS, Conceptos básicos, introducción
+Aplicación de estilos con CSS,Intermedio,CSS,estilos,aplicación
+Introducción a JavaScript,basico,JavaScript,Conceptos básicos,introducción
+Variables y tipos de datos en JavaScript,basico,JavaScript,variables,tipos de datos
+Operadores y expresiones en JavaScript,Intermedio,JavaScript,operadores,expresiones
+Control de flujo en JavaScript,Intermedio,JavaScript, control de flujo
+Funciones en JavaScript,Intermedio,JavaScript,funciones
+Arrays y objetos en JavaScript,Intermedio,JavaScript,arrays,objetos
+Introducción a React,basico,React, Conceptos básicos, introducción
+Instalación y configuración del entorno,basico,React,configuración, entorno de desarrollo
+Creación de componentes,Intermedio,React, componentes
+JSX y renderizado de componentes,Intermedio,React, JSX, renderizado
+Props y estado,Intermedio,React, props, estado, componentes
+Manejo de eventos,Intermedio,React, eventos
+Formularios y validación,Intermedio,React, formularios, validacion
+Uso de hooks,Intermedio, React, hooks
+Comunicación entre componentes,Intermedio,React, comunicación entre componentes
+Ruteo con React Router,Intermedio, React, ruteo
+Llamadas a API y manejo de datos externos,Intermedio,React, API, manejo de datos externos
+Optimización de rendimiento,Avanzado,React, optimización de rendimiento
+Uso de librerías externas,Intermedio,React, librerías externas
+Desarrollo de aplicaciones con React y Redux,Avanzado,React, Redux, aplicaciones
+Testeo y debugging,Intermedio,React, testeo, debugging
+Creación de componentes personalizados, Intermedio,React, componentes personalizados
+Uso de context API,Intermedio,React, context API
+Integración de React con otros frameworks,Avanzado,React, integración con otros frameworks
+Desarrollo de aplicaciones con React Native,Avanzado,React, React Native, aplicaciones
+Creación de grillas y estilos responsivos,Intermedio,React, grillas, estilos responsivos
