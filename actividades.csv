@@ -10,6 +10,11 @@ Control de flujo en JavaScript,Intermedio,JavaScript, control de flujo
 Funciones en JavaScript,Intermedio,JavaScript,funciones
 Arrays y objetos en JavaScript,Intermedio,JavaScript,arrays,objetos
 Introducción a React,basico,React, Conceptos básicos, introducción
+Comprensión de los nodos y la estructura del DOM,basico,introducción,DOM, JavaScript
+Selección y manipulación de elementos en el DOM con JavaScript,basico,Selección DOM, Manipulación DOM, JavaScript Básico
+Modificación de estilos CSS en elementos del DOM,basico,Estilos DOM, CSS, JavaScript
+Trabajo con eventos en el DOM,Intermedio,eventos, Javascript
+Uso de JavaScript para crear y manipular elementos dinámicos en el DOM, Intermedio,DOM,Javascript
 Instalación y configuración del entorno,basico,React,configuración, entorno de desarrollo
 Creación de componentes,Intermedio,React, componentes
 JSX y renderizado de componentes,Intermedio,React, JSX, renderizado
@@ -29,3 +34,19 @@ Uso de context API,Intermedio,React, context API
 Integración de React con otros frameworks,Avanzado,React, integración con otros frameworks
 Desarrollo de aplicaciones con React Native,Avanzado,React, React Native, aplicaciones
 Creación de grillas y estilos responsivos,Intermedio,React, grillas, estilos responsivos
+Creación de animaciones y efectos con React,Intermedio,React, animaciones, efectos
+Integración con bases de datos,Avanzado,React, integración con bases de datos
+Creación de dashboards y tableros de control,Avanzado,React, dashboards, tableros de control
+Desarrollo de aplicaciones con React y GraphQL,Avanzado,React, GraphQL, aplicaciones
+Creación de proyectos con React y Next.js,Intermedio a Avanzado, React, Next.js, proyectos
+Creación de formularios y validación de datos,Intermedio,React, formularios, validación de datos
+Creación de componentes con estado y ciclo de vida,Intermedio,React, componentes con estado, ciclo de vida
+Desarrollo de aplicaciones con React y Redux,Avanzado,React, Redux, aplicaciones
+Creación de componentes con hooks,Intermedio,React, componentes con hooks
+Integración con APIs externas, Intermedio a Avanzado,React, integración con APIs externas
+Creación de aplicaciones con React y TypeScript,Avanzado, React, TypeScript, aplicaciones
+Creación de rutas y navegación en aplicaciones con React,Intermedio, React, rutas, navegación
+Uso de librerías externas con React,Intermedio a Avanzado,React, librerías externas
+Creación de componentes con React y Material-UI,Intermedio,React, Material-UI, componentes
+Desarrollo de aplicaciones con React y Gatsby,Intermedio a Avanzado,React, Gatsby, aplicaciones
+Creación de aplicaciones con React y Server Side Rendering,Avanzado,React, Server Side Rendering, aplicaciones

@@ -1,0 +1,152 @@
+Comprensión de los conceptos básicos de Node.js y Express (Tags: Node.js, Express, JavaScript) (Nivel: Básico)
+Instalación y configuración de NestJS y sus dependencias (Tags: NestJS, Node.js, Typescript) (Nivel: Básico)
+Desarrollo de una aplicación básica con NestJS (Tags: NestJS, Node.js, Typescript) (Nivel: Básico)
+Creación y uso de controladores en NestJS (Tags: Controladores NestJS, REST API, Typescript) (Nivel: Básico)
+Implementación de rutas y endpoint en NestJS (Tags: NestJS, REST API, Typescript) (Nivel: Básico)
+Trabajo con middlewares en NestJS (Tags: Middlewares NestJS, Typescript) (Nivel: Intermedio)
+Uso de servicios en NestJS (Tags: Servicios NestJS, Typescript) (Nivel: Intermedio)
+Creación y uso de modulos en NestJS (Tags: Modulos NestJS, Typescript) (Nivel: Intermedio)
+Trabajo con bases de datos en NestJS (Tags: Bases de datos NestJS, Typescript) (Nivel: Intermedio)
+Desarrollo de aplicaciones con autenticación y autorización en NestJS (Tags: Autenticación NestJS, Autorización NestJS, Typescript) (Nivel: Intermedio)
+Implementación de pruebas en NestJS (Tags: Pruebas NestJS, Typescript) (Nivel: Intermedio)
+Uso de pipes y excepciones en NestJS (Tags: Pipes NestJS, Excepciones NestJS, Typescript) (Nivel: Intermedio)
+Creación y uso de interceptores en NestJS (Tags: Interceptores NestJS, Typescript) (Nivel: Intermedio)
+Desarrollo de aplicaciones con GraphQL en NestJS (Tags: GraphQL NestJS, Typescript) (Nivel: Avanzado)
+Integración de NestJS con otros frameworks y librerias (Tags: Integración NestJS, Typescript) (Nivel: Avanzado)
+Uso de WebSockets en NestJS (Tags: WebSockets NestJS, Typescript) (Nivel: Avanzado)
+Desarrollo de aplicaciones en tiempo real con NestJS (Tags: Tiempo real NestJS, Typescript) (Nivel: Avanzado)
+Uso de TypeORM en NestJS (Tags: TypeORM NestJS, Typescript) (Nivel: Avanzado)
+Instalación y configuración de NestJS (Tags: NestJS, Instalación, Configuración, Nivel: Básico)
+Creación de un proyecto en NestJS (Tags: NestJS, Proyectos, Creación, Nivel: Básico)
+Aprender sobre el arquitectura de NestJS (Tags: NestJS, Arquitectura, Nivel: Intermedio)
+Creación de controladores en NestJS (Tags: NestJS, Controladores, Creación, Nivel: Intermedio)
+Aprender sobre servicios en NestJS (Tags: NestJS, Servicios, Nivel: Intermedio)
+Uso de middlewares en NestJS (Tags: NestJS, Middlewares, Nivel: Intermedio)
+Uso de guards en NestJS (Tags: NestJS, Guards, Nivel: Intermedio)
+Integración de NestJS con bases de datos (Tags: NestJS, Integración, Bases de datos, Nivel: Intermedio)
+Creación de módulos en NestJS (Tags: NestJS, Módulos, Creación, Nivel: Avanzado)
+Desarrollo de aplicaciones en tiempo real con NestJS (Tags: NestJS, Aplicaciones en tiempo real, Nivel: Avanzado)
+Implementación de autenticación y autorización en NestJS (Tags: NestJS, Autenticación, Autorización, Nivel: Avanzado)
+Uso de GraphQL en NestJS (Tags: NestJS, GraphQL, Nivel: Avanzado)
+Despliegue de aplicaciones en NestJS (Tags: NestJS, Despliegue, Nivel: Avanzado)
+Testing en NestJS (Tags: NestJS, Testing, Nivel: Avanzado)
+Mejora de la performance en aplicaciones con NestJS (Tags: NestJS, Performance, Mejora, Nivel: Avanzado)
+Integración de NestJS con otras tecnologías (Tags: NestJS, Integración, Tecnologías, Nivel: Avanzado)
+Aprender sobre DTO en NestJS (Tags: NestJS, DTO, Nivel: Intermedio)
+Creación de pipes en NestJS (Tags: NestJS, Pipes, Creación, Nivel: Intermedio)
+Uso de excepciones en NestJS (Tags: NestJS, Excepciones, Nivel: Intermedio)
+Desarrollo de aplicaciones escalables con NestJS (Tags: NestJS, Aplicaciones escalables, Nivel: Avanzado)
+------
+Crear un controlador de rutas en NestJS
+NestJS
+Controladores
+Rutas
+Dificultad: Intermedio
+Implementar autenticación en NestJS con JWT
+NestJS
+Autenticación
+JWT
+Dificultad: Intermedio
+Añadir validaciones de entrada de datos en NestJS
+NestJS
+Validaciones
+Datos de entrada
+Dificultad: Intermedio
+Crear un servicio en NestJS
+NestJS
+Servicios
+Inyección de dependencias
+Dificultad: Intermedio
+Implementar integración con una base de datos en NestJS
+NestJS
+Integración de base de datos
+TypeORM
+Dificultad: Intermedio
+Crear un sistema de migraciones con TypeORM en NestJS
+NestJS
+TypeORM
+Migraciones
+Dificultad: Intermedio
+Crear una consulta personalizada con TypeORM en NestJS
+NestJS
+TypeORM
+Consultas personalizadas
+Dificultad: Intermedio
+Implementar CORS en NestJS
+NestJS
+CORS
+Configuración de seguridad
+Dificultad: Intermedio
+Crear un módulo en NestJS
+NestJS
+Módulos
+Organización de código
+Dificultad: Intermedio
+Implementar logging en NestJS
+NestJS
+Logging
+Configuración de seguridad
+Dificultad: Intermedio
+Crear un interceptor en NestJS
+NestJS
+Interceptores
+Middleware
+Dificultad: Intermedio
+Implementar pruebas unitarias en NestJS
+NestJS
+Pruebas unitarias
+Jest
+Dificultad: Intermedio
+Implementar pruebas de integración en NestJS
+NestJS
+Pruebas de integración
+Jest
+Dificultad: Intermedio
+Crear un sistema de enrutamiento dinámico en NestJS
+NestJS
+Enrutamiento dinámico
+Controladores dinámicos
+Dificultad: Intermedio
+Implementar WebSockets en NestJS
+NestJS
+WebSockets
+Comunicación en tiempo real
+Dificultad: Avanzado
+----------------------------
+Creación de módulos de NestJS: aprender cómo crear y utilizar módulos para organizar su aplicación.
+
+Tags: Modules, NestJS, Organización
+Nivel de dificultad: Intermedio
+Implementación de servicios en NestJS: aprender a crear y utilizar servicios para compartir código entre componentes de la aplicación.
+
+Tags: Servicios, NestJS, Compartir Código
+Nivel de dificultad: Intermedio
+Desarrollo de aplicaciones escalables con NestJS: aprender a utilizar patrones y prácticas para desarrollar aplicaciones escalables.
+
+Tags: Escalabilidad, NestJS, Patrones
+Nivel de dificultad: Avanzado
+Integración de NestJS con bases de datos: aprender a integrar su aplicación con diferentes bases de datos, como MongoDB y SQL.
+
+Tags: Integración, NestJS, Bases de datos, MongoDB, SQL
+Nivel de dificultad: Intermedio
+Uso de pipes y filtros en NestJS: aprender a utilizar pipes y filtros para manejar y validar entradas de la aplicación.
+
+Tags: Pipes, Filtros, NestJS, Validación
+Nivel de dificultad: Intermedio
+Desarrollo de aplicaciones seguras con NestJS: aprender a utilizar características y herramientas de seguridad para proteger su aplicación.
+
+Tags: Seguridad, NestJS, Protección
+Nivel de dificultad: Avanzado
+Implementación de pruebas en NestJS: aprender a crear y ejecutar pruebas unitarias y de integración en su aplicación NestJS.
+
+Tags: Pruebas, NestJS, Unitarias, Integración
+Nivel de dificultad: Intermedio
+Desarrollo de aplicaciones con GraphQL en NestJS: aprender a utilizar GraphQL para crear aplicaciones con NestJS.
+
+Tags: GraphQL, NestJS, Desarrollo de Aplicaciones
+Nivel de dificultad: Avanzado
+Integración de NestJS con autenticación y autorización: aprender a integrar su aplicación NestJS con características de autenticación y autorización.
+
+Tags: Integración, NestJS, Autenticación, Autorización
+Nivel de dificultad: Avanzado
+--------------------------
